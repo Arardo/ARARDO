@@ -1,19 +1,19 @@
 # Site settings
 title: ARARDO
 description: "Body Piercing Jewelry"
-url:  "https://arardo.github.io/ARARDO/" # Actual base url of the website
+url:  "ARARDO/" # Actual base url of the website
 baseurl: "/"           # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "ARARDO"
+  email: "support@arardo.com"
+  url: "https://www.arardo.com"
 permalink: /:year/:month/:day/:title:output_ext
 
 #Plugins
 plugins: [jekyll-paginate, jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 
 #Pagination
-paginate: 3
+paginate: 10
 paginate_path: "/page:num/"
 
 #SEO
@@ -27,9 +27,10 @@ facebook:
 logo: /assets/img/logo.jpg
 social:
   links: #List your social links here
-    - https://twitter.com/PandaSekh
-    - https://www.github.com/pandasekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://www.facebook.com/arardoshop
+    - https://www.instagram.com/arardoofficial/
+    - https://www.youtube.com/channel/UCxeeMQsaOZgoqPpaMiN2LuQ
+    - https://www.pinterest.com/arardoshop/
 webmaster_verifications:
   google: 
   bing: 
