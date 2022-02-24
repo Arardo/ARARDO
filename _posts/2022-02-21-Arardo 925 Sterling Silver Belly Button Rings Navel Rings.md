@@ -9,8 +9,9 @@ description: "Arardo 925 Sterling Silver Belly Button Rings Navel Piercing Rings
 ### Arardo 925 Sterling Silver Belly Button Rings Navel Rings
 
 ### Arardo 925 Sterling Silver Belly Button Rings AB0086
-image: https://arardo.github.io/ARARDO/assets/img/AB0086-2.jpg
-image: https://arardo.github.io/ARARDO/assets/img/AB0086-3.jpg
+<img src= "/assets/img/AB0086-2.jpg">
+
+<img src= "/assets/img/AB0086-3.jpg">
 
 ### Exquisite Cutting Workmanship and Stylish Outward Appearance Design.
 
