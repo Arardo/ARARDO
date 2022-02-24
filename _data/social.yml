@@ -3,9 +3,8 @@
 
 
 social:
-  - {icon: 'github', type: "brand", link: 'https://www.github.com/pandasekh'}
-  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/PandaSekh'}
-  - {icon: 'linkedin', type: "brand", link: 'https://www.linkedin.com/in/alessio-franceschi/'}
-  
-  - {icon: 'envelope', type: "solid", link: 'mailto:alessiofranceschi2@gmail.com'}
+  - {icon: 'facebook', type: "brand", link: 'https://www.facebook.com/arardoshop'}
+  - {icon: 'instagram', type: "brand", link: 'https://www.instagram.com/arardoofficial/'}
+  - {icon: 'pinterest', type: "brand", link: 'https://www.pinterest.com/arardoshop/'}
+  - {icon: 'youtube', type: "brand", link: 'https://www.youtube.com/channel/UCxeeMQsaOZgoqPpaMiN2LuQ'}
   - {icon: 'rss', type: "solid", link: "/feed.xml"}
